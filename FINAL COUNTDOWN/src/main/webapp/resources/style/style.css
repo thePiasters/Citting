@@ -1,0 +1,18 @@
+
+
+        .snackers{
+
+           display: none;
+        }
+
+
+
+        .drinkers{
+            display: none;
+        }
+
+        #drink
+        {
+            background-color: black;
+            color: bisque;
+        }
